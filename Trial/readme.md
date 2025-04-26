@@ -27,7 +27,7 @@ This repository documents my introductory Power BI exercises using sample coffee
 - Power BI Desktop (workshop version)
 - Sample Coffee Chain dataset
 - Basic visualizations only
-- No advanced DAX or modeling
+- Did DAX and modeling
 
 ## How to View
 The screenshots are included in this repository:
@@ -36,7 +36,6 @@ The screenshots are included in this repository:
 - `Screenshot (41).png`
 
 ## Next Steps
-- Learn DAX fundamentals
 - Practice more complex visualizations
 - Explore data modeling techniques
 
