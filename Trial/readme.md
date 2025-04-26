@@ -11,15 +11,15 @@ This repository contains my practice work with Power BI, created during a learni
 
 ## Screenshots
 1. **Initial Visualization Attempt**  
-   ![First Practice](Screenshot_(39).png)  
+   ![First Practice](./Screenshot(39).png)  
    *My first attempt at organizing product sales data*
 
 2. **Product Type Analysis**  
-   ![Second Practice](Screenshot_(40).png)  
+   ![Second Practice](./Screenshot_(40).png)  
    *Experimenting with product type categorization*
 
 3. **Profit Visualization**  
-   ![Third Practice](Screenshot_(41).png)  
+   ![Third Practice](./Screenshot_(41).png)  
    *Basic profit metric display practice*
 
 ## What I Learned
