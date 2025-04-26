@@ -1,38 +1,45 @@
-# Power BI Learning Project - Coffee Chain Data Analysis
+# Power BI Learning Workshop - Coffee Chain Data Exploration
 
 ## Project Description
-This repository contains my practice work with Power BI, created during a learning workshop. The project explores basic data visualization techniques using sample coffee chain sales data.
+This repository documents my introductory Power BI exercises using sample coffee chain sales data from a learning workshop. These are my practice visualizations while learning Power BI fundamentals.
 
-## Workshop Content
-- Created simple bar charts and tables
-- Practiced with Power BI's visualization pane
-- Explored basic filtering and data organization
-- Learned to structure reports with multiple pages
+## Screenshots of Practice Exercises
 
-## Screenshots
-1. **Initial Visualization Attempt**  
-   ![First Practice](./Screenshot-(39).png)  
-   *My first attempt at organizing product sales data*
+### Exercise 1: Product Sales Overview
+![Product Sales](Screenshot%20(39).png)  
+*Initial product sales visualization practice*
 
-2. **Product Type Analysis**  
-   ![Second Practice](./Screenshot-(40).png)  
-   *Experimenting with product type categorization*
+### Exercise 2: Sales by Product Type
+![Product Type Analysis](Screenshot%20(40).png)  
+*Practicing product categorization*
 
-3. **Profit Visualization**  
-   ![Third Practice](./Screenshot-(41).png)  
-   *Basic profit metric display practice*
+### Exercise 3: Profit Metrics
+![Profit Visualization](Screenshot%20(41).png)  
+*Basic profit metrics display*
 
-## What I Learned
-- Fundamentals of Power BI interface
-- How to connect data sources
-- Basic visualization creation
-- Report layout principles
+## Key Learnings
+- **Data Import**: Connected to sample datasets
+- **Visualization Basics**: Created simple charts and tables
+- **Report Layout**: Organized multiple visuals
+- **Filtering**: Implemented basic filters
 
-## Disclaimer
-This is purely an educational exercise using sample data. The visualizations represent my initial learning steps and are not production-quality analytics.
+## Technical Details
+- Power BI Desktop (workshop version)
+- Sample Coffee Chain dataset
+- Basic visualizations only
+- No advanced DAX or modeling
+
+## How to View
+The screenshots are included in this repository:
+- `Screenshot (39).png`
+- `Screenshot (40).png`
+- `Screenshot (41).png`
 
 ## Next Steps
-- Continue with intermediate Power BI courses
-- Practice with more complex datasets
-- Learn DAX formulas
-- Explore advanced visualization techniques
+- Learn DAX fundamentals
+- Practice more complex visualizations
+- Explore data modeling techniques
+
+---
+
+**Note**: These are beginner exercises from a learning workshop, not production dashboards.
