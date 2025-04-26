@@ -5,15 +5,15 @@ This repository documents my introductory Power BI exercises using sample coffee
 
 ## Screenshots of Practice Exercises
 
-### Exercise 1: Product Sales Overview
+### Exercise 1: 
 ![Product Sales](Screenshot%20(39).png)  
 *Initial product sales visualization practice*
 
-### Exercise 2: Sales by Product Type
+### Exercise 2: 
 ![Product Type Analysis](Screenshot%20(40).png)  
 *Practicing product categorization*
 
-### Exercise 3: Profit Metrics
+### Exercise 3:
 ![Profit Visualization](Screenshot%20(41).png)  
 *Basic profit metrics display*
 
