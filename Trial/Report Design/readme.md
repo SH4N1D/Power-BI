@@ -15,7 +15,7 @@ This repository documents my introductory Power BI exercises using sample coffee
 
 ### Exercise 3:
 ![Profit Visualization](Screenshot%20(41).png)  
-*Basic profit metrics display*
+*Basic profit charts display*
 
 ### Exercise 4:
 ![Profit Visualization](Screenshot%20(46).png)  
