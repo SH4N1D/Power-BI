@@ -38,6 +38,7 @@ The screenshots are included in this repository:
 - `Screenshot (39).png`
 - `Screenshot (40).png`
 - `Screenshot (41).png`
+- `Screenshot (46).png`
 
 ## Next Steps
 - Practice more complex visualizations
