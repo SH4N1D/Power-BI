@@ -17,6 +17,10 @@ This repository documents my introductory Power BI exercises using sample coffee
 ![Profit Visualization](Screenshot%20(41).png)  
 *Basic profit metrics display*
 
+### Exercise 4:
+![Profit Visualization](Screenshot%20(46).png)  
+*Mapping and decision tree*
+
 ## Key Learnings
 - **Data Import**: Connected to sample datasets
 - **Visualization Basics**: Created simple charts and tables
